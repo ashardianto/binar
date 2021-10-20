@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+.banner-image {
+    background-image: url(./assets/main-bg.jpg);
+    background-size: cover;
+}
+
+.btn {
+    padding: 6px 50px;
+    text-transform: uppercase;
+}
+
+.navbar {
+    background-color: black;
+    opacity: 50%;
+}
+
+.section-games {
+    background-image: url(./assets/the-games-bg.jpg);
+    background-size: cover;
+}
+
+.games-content {
+    bottom: 11em;
+    margin-right: 1em;
+}
+
+.games-content, .carousel {
+    margin-top: 5em;
+}
+
+.section-features {
+    background-image: url(./assets/features.jpg);
+    background-size: cover;
+}
+
+.section-requirements {
+    background-image: url(./assets/requirements.png);
+    background-size: cover;
+}
