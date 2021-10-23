@@ -19,8 +19,11 @@ img {
 }
 
 .navbar {
-    background-color: black;
-    opacity: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.nav-item {
+    margin: 0 10px;
 }
 
 .section-games {
@@ -34,7 +37,7 @@ img {
 }
 
 .games-content, .carousel {
-    margin-top: 5em;
+    /* margin-top: 5em; */
 }
 
 .section-features {
@@ -45,4 +48,23 @@ img {
 .section-requirements {
     background-image: url(./assets/requirements.png);
     background-size: cover;
+}
+
+.requirements-container {
+    width: 50%;
+}
+
+.col-4 {
+    padding: 12px;
+}
+
+.requirements-content {
+    top: 10%;
+    left: 20%;
+}
+
+.requirements-systems {
+    margin-top: 50px;
+    top: 10%;
+    left: 20%;
 }
