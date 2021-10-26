@@ -97,8 +97,13 @@ img {
     background-size: cover;
 }
 
+.topscore-container {
+  margin: 0 auto;
+}
+
 .topscore-content {
-    left: 15%;
+    text-align: center;
+    top: 25px;
 }
 
 .team-boxed {
