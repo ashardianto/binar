@@ -61,6 +61,15 @@ img {
     background-size: cover;
 }
 
+.features-container {
+  width: 400px;
+  left: 25%;
+}
+
+.features-list {
+  margin-top: 40px;
+}
+
 .section-requirements {
     background-image: url(./assets/requirements.png);
     background-size: cover;
