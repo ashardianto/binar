@@ -52,10 +52,6 @@ img {
     margin-right: 1em;
 }
 
-.games-content, .carousel {
-    /* margin-top: 5em; */
-}
-
 .section-features {
     background-image: url(./assets/features.jpg);
     background-size: cover;
